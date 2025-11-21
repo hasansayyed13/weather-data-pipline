@@ -1,0 +1,17 @@
+libarary:-
+
+pip install requests
+pip install json
+pip install mysql connector
+pip install pandas
+pip install json
+
+software:-
+
+For Python Scipt Any One Of Them (Vs code,Pycharm)
+For database (MySql)
+
+Mysql instruction:-
+
+before runing file make sure you create a database called weather_data
+change root and password
