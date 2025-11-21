@@ -1,17 +1,22 @@
-libarary:-
+To Execute this program run Main.py file from scripts
+___________________________________________________________________
+
+
+Libarary:-
 
 pip install requests
 pip install json
-pip install mysql connector
 pip install pandas
 pip install json
-
+pip install sqlalchemy pymysql || pip install PyMySQL
+_______________________________________________________________________
 software:-
 
-For Python Scipt Any One Of Them (Vs code,Pycharm)
-For database (MySql)
-
+--For Python Script Any One Of Them IDE : (VsCode || Pycharm)
+--For database : (MySql)
+_______________________________________________________________________
 Mysql instruction:-
 
-before runing file make sure you create a database called weather_data
-change root and password
+--Before Running main.py make sure you create a database called weather_data in Mysql
+--change root and password also
+

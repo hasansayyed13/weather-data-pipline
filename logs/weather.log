@@ -1,0 +1,795 @@
+2026-05-19 16:52:40,601 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-19 16:52:40,720 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-19 16:52:40,721 INFO Response status are :200
+2026-05-19 16:52:40,721 INFO Save Raw data In data file for backup
+2026-05-19 16:52:40,722 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-19 17:10:13,253 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-19 17:10:13,330 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-19 17:10:13,331 INFO Response status are :200
+2026-05-19 17:10:13,331 INFO  Start Saving Raw data In data file for backup
+2026-05-19 17:10:13,331 INFO Data  Successfully saved in data file for backup
+2026-05-19 17:10:13,332 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-19 17:10:44,204 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-19 17:10:44,282 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-19 17:10:44,282 INFO Response status are :200
+2026-05-19 17:10:44,282 INFO  Start Saving Raw data In data file for backup
+2026-05-19 17:10:44,283 INFO Data  Successfully saved in data file for backup
+2026-05-19 17:10:44,283 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-19 17:10:59,864 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-19 17:10:59,936 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-19 17:10:59,937 INFO Response status are :200
+2026-05-19 17:10:59,937 INFO  Start Saving Raw data In data file for backup
+2026-05-19 17:10:59,937 INFO Data  Successfully saved in data file for backup
+2026-05-19 17:10:59,938 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-19 17:10:59,939 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-19 17:10:59,982 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-19 17:10:59,982 INFO Response status are :200
+2026-05-19 17:10:59,982 INFO  Start Saving Raw data In data file for backup
+2026-05-19 17:10:59,983 INFO Data  Successfully saved in data file for backup
+2026-05-19 17:10:59,983 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-19 17:10:59,984 INFO Start Transform Data
+2026-05-19 17:10:59,984 INFO  Start Transform Data
+2026-05-19 17:10:59,984 ERROR Failed to Transform Data:'list' object has no attribute 'get'
+2026-05-19 17:12:14,993 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-19 17:12:15,060 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-19 17:12:15,061 INFO Response status are :200
+2026-05-19 17:12:15,061 INFO  Start Saving Raw data In data file for backup
+2026-05-19 17:12:15,061 INFO Data  Successfully saved in data file for backup
+2026-05-19 17:12:15,062 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-19 17:12:15,062 INFO Start Transform Data
+2026-05-19 17:12:15,063 INFO  Start Transform Data
+2026-05-19 17:12:15,063 ERROR Failed to Transform Data:'list' object has no attribute 'get'
+2026-05-19 17:14:45,830 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-19 17:14:45,925 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-19 17:14:45,925 INFO Response status are :200
+2026-05-19 17:14:45,925 INFO  Start Saving Raw data In data file for backup
+2026-05-19 17:14:45,926 INFO Data  Successfully saved in data file for backup
+2026-05-19 17:14:45,926 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-19 17:14:45,927 INFO Start Transform Data
+2026-05-19 17:14:45,927 INFO  Start Transform Data
+2026-05-19 17:14:45,927 ERROR Failed to Transform Data:unhashable type: 'list'
+2026-05-19 17:15:46,376 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-19 17:15:46,564 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-19 17:15:46,564 INFO Response status are :200
+2026-05-19 17:15:46,564 INFO  Start Saving Raw data In data file for backup
+2026-05-19 17:15:46,565 INFO Data  Successfully saved in data file for backup
+2026-05-19 17:15:46,565 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-19 17:15:46,566 INFO Start Transform Data
+2026-05-19 17:15:46,566 INFO  Start Transform Data
+2026-05-19 17:15:46,566 ERROR Failed to Transform Data:unhashable type: 'list'
+2026-05-19 17:17:11,403 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-19 17:17:11,472 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-19 17:17:11,472 INFO Response status are :200
+2026-05-19 17:17:11,472 INFO  Start Saving Raw data In data file for backup
+2026-05-19 17:17:11,473 INFO Data  Successfully saved in data file for backup
+2026-05-19 17:17:11,473 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-19 17:17:11,474 INFO Start Transform Data
+2026-05-19 17:17:11,474 INFO  Start Transform Data
+2026-05-19 17:17:11,474 ERROR Failed to Transform Data:unhashable type: 'list'
+2026-05-19 17:20:07,225 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-19 17:20:07,348 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-19 17:20:07,349 INFO Response status are :200
+2026-05-19 17:20:07,349 INFO  Start Saving Raw data In data file for backup
+2026-05-19 17:20:07,349 INFO Data  Successfully saved in data file for backup
+2026-05-19 17:20:07,350 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-19 17:20:07,351 INFO Start Transform Data
+2026-05-19 17:20:07,352 INFO  Start Transform Data
+2026-05-19 17:20:07,352 ERROR Failed to Transform Data:unhashable type: 'list'
+2026-05-19 17:21:17,300 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-19 17:21:17,401 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-19 17:21:17,401 INFO Response status are :200
+2026-05-19 17:21:17,401 INFO  Start Saving Raw data In data file for backup
+2026-05-19 17:21:17,402 INFO Data  Successfully saved in data file for backup
+2026-05-19 17:21:17,402 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-19 17:21:17,403 INFO Start Transform Data
+2026-05-19 17:21:17,403 INFO  Start Transform Data
+2026-05-19 17:21:17,403 ERROR Failed to Transform Data:unhashable type: 'list'
+2026-05-19 17:27:44,921 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-19 17:27:44,998 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-19 17:27:44,998 INFO Response status are :200
+2026-05-19 17:27:44,999 INFO  Start Saving Raw data In data file for backup
+2026-05-19 17:27:45,000 INFO Data  Successfully saved in data file for backup
+2026-05-19 17:27:45,000 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-19 17:27:45,001 INFO Start Transform Data
+2026-05-19 17:27:45,001 INFO  Start Transform Data
+2026-05-19 17:27:45,002 ERROR Failed to Transform Data:unhashable type: 'list'
+2026-05-19 17:28:59,782 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-19 17:28:59,929 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-19 17:28:59,929 INFO Response status are :200
+2026-05-19 17:28:59,929 INFO  Start Saving Raw data In data file for backup
+2026-05-19 17:28:59,930 INFO Data  Successfully saved in data file for backup
+2026-05-19 17:28:59,930 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-19 17:28:59,931 INFO Start Transform Data
+2026-05-19 17:28:59,931 INFO  Start Transform Data
+2026-05-19 17:28:59,931 ERROR Failed to Transform Data:unhashable type: 'list'
+2026-05-19 17:30:13,173 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-19 17:30:13,281 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-19 17:30:13,282 INFO Response status are :200
+2026-05-19 17:30:13,282 INFO  Start Saving Raw data In data file for backup
+2026-05-19 17:30:13,282 INFO Data  Successfully saved in data file for backup
+2026-05-19 17:30:13,283 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-19 17:30:13,283 INFO Start Transform Data
+2026-05-19 17:30:13,284 INFO  Start Transform Data
+2026-05-19 17:30:13,284 ERROR Failed to Transform Data:unhashable type: 'list'
+2026-05-19 17:32:49,859 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-19 17:32:49,960 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-19 17:32:49,961 INFO Response status are :200
+2026-05-19 17:32:49,961 INFO  Start Saving Raw data In data file for backup
+2026-05-19 17:32:49,961 INFO Data  Successfully saved in data file for backup
+2026-05-19 17:32:49,962 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-19 17:32:49,963 INFO Start Transform Data
+2026-05-19 17:32:49,963 INFO  Start Transform Data
+2026-05-19 17:32:49,963 ERROR Failed to Transform Data:unhashable type: 'list'
+2026-05-19 17:40:28,455 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-19 17:40:28,938 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-19 17:40:28,939 INFO Response status are :200
+2026-05-19 17:40:28,939 INFO  Start Saving Raw data In data file for backup
+2026-05-19 17:40:28,941 INFO Data  Successfully saved in data file for backup
+2026-05-19 17:40:28,943 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-19 17:40:28,946 INFO Start Transform Data
+2026-05-19 17:40:28,947 INFO  Start Transform Data
+2026-05-19 17:42:16,708 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-19 17:42:16,998 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-19 17:42:16,999 INFO Response status are :200
+2026-05-19 17:42:16,999 INFO  Start Saving Raw data In data file for backup
+2026-05-19 17:42:17,001 INFO Data  Successfully saved in data file for backup
+2026-05-19 17:42:17,003 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-19 17:42:17,004 INFO Start Transform Data
+2026-05-19 17:42:17,005 INFO  Start Transform Data
+2026-05-19 23:43:56,383 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-19 23:43:56,744 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-19 23:43:56,744 INFO Response status are :200
+2026-05-19 23:43:56,744 INFO  Start Saving Raw data In data file for backup
+2026-05-19 23:43:56,745 INFO Data  Successfully saved in data file for backup
+2026-05-19 23:43:56,746 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-19 23:43:56,749 INFO Start Transform Data
+2026-05-19 23:43:56,749 INFO  Start Transform Data
+2026-05-19 23:52:22,612 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-19 23:52:22,879 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-19 23:52:22,880 INFO Response status are :200
+2026-05-19 23:52:22,880 INFO  Start Saving Raw data In data file for backup
+2026-05-19 23:52:22,881 INFO Data  Successfully saved in data file for backup
+2026-05-19 23:52:22,882 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-19 23:52:22,884 INFO Start Transform Data
+2026-05-19 23:52:22,884 INFO  Start Transform Data
+2026-05-20 00:05:22,937 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-20 00:05:23,304 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 00:05:23,304 INFO Response status are :200
+2026-05-20 00:05:23,304 INFO  Start Saving Raw data In data file for backup
+2026-05-20 00:05:23,305 INFO Data  Successfully saved in data file for backup
+2026-05-20 00:05:23,305 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-20 00:05:23,307 INFO Start Transform Data
+2026-05-20 00:05:23,307 INFO  Start Transform Data
+2026-05-20 00:06:54,462 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-20 00:06:54,529 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 00:06:54,529 INFO Response status are :200
+2026-05-20 00:06:54,529 INFO  Start Saving Raw data In data file for backup
+2026-05-20 00:06:54,530 INFO Data  Successfully saved in data file for backup
+2026-05-20 00:06:54,530 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-20 00:06:54,531 INFO Start Transform Data
+2026-05-20 00:06:54,531 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-20 00:06:54,574 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 00:06:54,574 INFO Response status are :200
+2026-05-20 00:06:54,574 INFO  Start Saving Raw data In data file for backup
+2026-05-20 00:06:54,575 INFO Data  Successfully saved in data file for backup
+2026-05-20 00:06:54,575 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-20 00:06:54,576 INFO  Start Transform Data
+2026-05-20 00:08:39,333 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-20 00:08:39,414 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 00:08:39,414 INFO Response status are :200
+2026-05-20 00:08:39,414 INFO  Start Saving Raw data In data file for backup
+2026-05-20 00:08:39,415 INFO Data  Successfully saved in data file for backup
+2026-05-20 00:08:39,416 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-20 00:08:39,417 INFO Start Transform Data
+2026-05-20 00:08:39,417 INFO  Start Transform Data
+2026-05-20 00:08:39,432 INFO Connecting to DB
+2026-05-20 00:08:41,156 INFO package: mysql.connector.plugins
+2026-05-20 00:08:41,156 INFO plugin_name: caching_sha2_password
+2026-05-20 00:08:41,156 INFO AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-05-20 00:08:41,582 INFO Successfully connected to database
+2026-05-20 00:31:31,665 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-20 00:31:31,963 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 00:31:31,963 INFO Response status are :200
+2026-05-20 00:31:31,963 INFO  Start Saving Raw data In data file for backup
+2026-05-20 00:31:31,964 INFO Data  Successfully saved in data file for backup
+2026-05-20 00:31:31,964 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-20 00:31:31,966 INFO Start Transform Data
+2026-05-20 00:31:31,967 INFO  Start Transform Data
+2026-05-20 00:31:32,052 INFO Connecting to DB
+2026-05-20 00:31:32,759 ERROR Connection Failed !! : Can't load plugin: sqlalchemy.dialects:mysql.pymsql
+2026-05-20 00:31:32,759 INFO Saving Data  to DB (Mysql)
+2026-05-20 00:31:32,760 ERROR Saving Data Failed  to DB (Mysql)!! : cannot access local variable 'engine' where it is not associated with a value
+2026-05-20 00:33:16,736 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-20 00:33:16,803 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 00:33:16,803 INFO Response status are :200
+2026-05-20 00:33:16,803 INFO  Start Saving Raw data In data file for backup
+2026-05-20 00:33:16,804 INFO Data  Successfully saved in data file for backup
+2026-05-20 00:33:16,804 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-20 00:33:16,805 INFO Start Transform Data
+2026-05-20 00:33:16,805 INFO  Start Transform Data
+2026-05-20 00:33:16,813 INFO Connecting to DB
+2026-05-20 00:33:16,878 ERROR Connection Failed !! : Can't load plugin: sqlalchemy.dialects:mysql.pymsql
+2026-05-20 00:33:16,878 INFO Saving Data  to DB (Mysql)
+2026-05-20 00:33:16,878 ERROR Saving Data Failed  to DB (Mysql)!! : cannot access local variable 'engine' where it is not associated with a value
+2026-05-20 00:36:36,963 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=SURAT&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-20 00:36:37,038 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=SURAT&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 00:36:37,038 INFO Response status are :200
+2026-05-20 00:36:37,038 INFO  Start Saving Raw data In data file for backup
+2026-05-20 00:36:37,039 INFO Data  Successfully saved in data file for backup
+2026-05-20 00:36:37,039 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=SURAT&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-20 00:36:37,040 INFO Start Transform Data
+2026-05-20 00:36:37,040 INFO  Start Transform Data
+2026-05-20 00:36:37,047 INFO Connecting to DB
+2026-05-20 00:36:37,083 ERROR Connection Failed !! : No module named 'MySQLdb'
+2026-05-20 00:41:00,219 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=valsad&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-20 00:41:00,651 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=valsad&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 00:41:00,651 INFO Response status are :200
+2026-05-20 00:41:00,651 INFO  Start Saving Raw data In data file for backup
+2026-05-20 00:41:00,652 INFO Data  Successfully saved in data file for backup
+2026-05-20 00:41:00,652 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=valsad&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-20 00:41:00,654 INFO Start Transform Data
+2026-05-20 00:41:00,654 INFO  Start Transform Data
+2026-05-20 00:41:00,791 INFO Connecting to DB
+2026-05-20 00:41:00,986 ERROR Connection Failed !! : No module named 'pymysql'
+2026-05-20 00:45:20,901 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=kerla&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-20 00:45:21,020 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=kerla&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 00:45:21,021 INFO  Start Saving Raw data In data file for backup
+2026-05-20 00:45:21,023 ERROR Failed to Save Raw Data:cannot access local variable 'json_data' where it is not associated with a value
+2026-05-20 00:45:40,765 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=surat&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-20 00:45:40,831 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=surat&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 00:45:40,831 INFO Response status are :200
+2026-05-20 00:45:40,831 INFO  Start Saving Raw data In data file for backup
+2026-05-20 00:45:40,832 INFO Data  Successfully saved in data file for backup
+2026-05-20 00:45:40,833 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=surat&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-20 00:45:40,833 INFO Start Transform Data
+2026-05-20 00:45:40,834 INFO  Start Transform Data
+2026-05-20 00:45:40,917 INFO Connecting to DB
+2026-05-20 00:45:40,984 ERROR Connection Failed !! : No module named 'pymysql'
+2026-05-20 00:58:26,746 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=surat&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-20 00:58:26,885 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=surat&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 00:58:26,886 INFO Response status are :200
+2026-05-20 00:58:26,886 INFO  Start Saving Raw data In data file for backup
+2026-05-20 00:58:26,886 ERROR Failed to Save Raw Data:unsupported operand type(s) for +: 'dict' and 'str'
+2026-05-20 00:58:26,886 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=surat&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-20 00:58:26,887 INFO Start Transform Data
+2026-05-20 00:58:26,887 INFO  Start Transform Data
+2026-05-20 00:58:27,001 INFO Connecting to DB
+2026-05-20 00:58:27,143 ERROR Connection Failed !! : No module named 'pymysql'
+2026-05-20 01:02:02,845 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=kerla&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-20 01:02:02,952 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=kerla&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 01:02:13,154 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-20 01:02:13,236 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 01:02:13,236 INFO Response status are :200
+2026-05-20 01:02:13,236 INFO  Start Saving Raw data In data file for backup
+2026-05-20 01:02:13,237 INFO Data  Successfully saved in data file for backup
+2026-05-20 01:02:13,237 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=vapi&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-20 01:02:13,238 INFO Start Transform Data
+2026-05-20 01:02:13,239 INFO  Start Transform Data
+2026-05-20 01:02:13,248 INFO Connecting to DB
+2026-05-20 01:02:13,281 ERROR Connection Failed !! : No module named 'pymysql'
+2026-05-20 01:07:50,691 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=buxar&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-20 01:07:51,057 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=buxar&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 01:07:51,057 INFO Response status are :200
+2026-05-20 01:07:51,058 INFO  Start Saving Raw data In data file for backup
+2026-05-20 01:07:51,059 INFO Data  Successfully saved in data file for backup
+2026-05-20 01:07:51,060 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=buxar&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-20 01:07:51,061 INFO Start Transform Data
+2026-05-20 01:07:51,062 INFO  Start Transform Data
+2026-05-20 01:07:51,158 INFO Connecting to DB
+2026-05-20 01:07:51,441 ERROR Connection Failed !! : No module named 'pymysql'
+2026-05-20 01:09:38,368 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=surat&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-20 01:09:38,751 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=surat&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 01:09:38,751 INFO Response status are :200
+2026-05-20 01:09:38,751 INFO  Start Saving Raw data In data file for backup
+2026-05-20 01:09:38,752 INFO Data  Successfully saved in data file for backup
+2026-05-20 01:09:38,769 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=surat&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-20 01:09:38,771 INFO Start Transform Data
+2026-05-20 01:09:38,771 INFO  Start Transform Data
+2026-05-20 01:09:38,877 INFO Connecting to DB
+2026-05-20 01:09:39,251 ERROR Connection Failed !! : No module named 'pymysql'
+2026-05-20 01:13:31,062 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-20 01:13:31,452 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 01:13:31,452 INFO Response status are :200
+2026-05-20 01:13:31,452 INFO  Start Saving Raw data In data file for backup
+2026-05-20 01:13:31,453 INFO Data  Successfully saved in data file for backup
+2026-05-20 01:13:31,453 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-20 01:13:31,455 INFO Start Transform Data
+2026-05-20 01:13:31,456 INFO  Start Transform Data
+2026-05-20 01:13:31,559 INFO Connecting to DB
+2026-05-20 01:13:31,686 ERROR Connection Failed !! : No module named 'MySQLdb'
+2026-05-20 01:23:32,206 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-20 01:23:32,654 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 01:23:32,655 INFO Response status are :200
+2026-05-20 01:23:32,655 INFO  Start Saving Raw data In data file for backup
+2026-05-20 01:23:32,655 INFO Data  Successfully saved in data file for backup
+2026-05-20 01:23:32,656 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-20 01:23:32,658 INFO Start Transform Data
+2026-05-20 01:23:32,658 INFO  Start Transform Data
+2026-05-20 01:23:32,754 INFO Connecting to DB
+2026-05-20 01:23:32,886 ERROR Connection Failed !! : No module named 'pymysql'
+2026-05-20 01:29:22,077 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=surat&appid=b70f5725f31f24110d46282a364a6878&units=metric started
+2026-05-20 01:29:22,448 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=surat&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 01:29:22,449 INFO Response status are :200
+2026-05-20 01:29:22,449 INFO  Start Saving Raw data In data file for backup
+2026-05-20 01:29:22,450 INFO Data  Successfully saved in data file for backup
+2026-05-20 01:29:22,451 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=surat&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-20 01:29:22,476 INFO Start Transform Data
+2026-05-20 01:29:22,476 INFO  Start Transform Data
+2026-05-20 01:29:22,595 INFO Connecting to DB
+2026-05-20 01:29:23,055 INFO Successfully connected to database
+2026-05-20 01:29:23,056 INFO Saving Data  to DB (Mysql)
+2026-05-20 01:45:59,242 INFO Extracting data from started
+2026-05-20 01:46:47,022 INFO Extracting data from started
+2026-05-20 01:46:47,539 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=valsad&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 01:46:49,540 INFO Response status are :200
+2026-05-20 01:46:49,540 INFO  Start Saving Raw data In data file for backup
+2026-05-20 01:46:49,541 INFO Data  Successfully saved in data file for backup
+2026-05-20 01:46:51,542 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=valsad&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-20 01:46:51,542 INFO Start Transform Data
+2026-05-20 01:46:51,543 INFO  Start Transform Data
+2026-05-20 01:46:51,720 INFO Connecting to DB
+2026-05-20 01:46:51,918 INFO Successfully connected to database
+2026-05-20 01:46:51,918 INFO Saving Data  to DB (Mysql)
+2026-05-20 01:52:38,146 INFO Extracting data from started
+2026-05-20 01:52:38,575 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=valsad&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 01:52:40,578 INFO Response status are :200
+2026-05-20 01:52:40,579 INFO  Start Saving Raw data In data file for backup
+2026-05-20 01:52:40,586 INFO Data  Successfully saved in data file for backup
+2026-05-20 01:52:42,589 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=valsad&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-20 01:52:42,589 INFO Start Transform Data
+2026-05-20 01:52:42,589 INFO  Start Transform Data
+2026-05-20 01:52:42,666 INFO Connecting to DB
+2026-05-20 01:52:42,834 INFO Successfully connected to database
+2026-05-20 01:52:42,834 INFO Saving Data  to DB (Mysql)
+2026-05-20 01:55:28,614 INFO Extracting data from started
+2026-05-20 01:55:28,939 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=logging.info(f"Checking response status code from :{URL}")&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 01:55:51,740 INFO Extracting data from started
+2026-05-20 01:55:51,853 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Delhi&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 01:55:53,854 INFO Response status are :200
+2026-05-20 01:55:53,854 INFO  Start Saving Raw data In data file for backup
+2026-05-20 01:55:53,856 INFO Data  Successfully saved in data file for backup
+2026-05-20 01:55:53,960 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 01:55:55,961 INFO Response status are :200
+2026-05-20 01:55:55,961 INFO  Start Saving Raw data In data file for backup
+2026-05-20 01:55:55,963 INFO Data  Successfully saved in data file for backup
+2026-05-20 01:55:56,059 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Valsad&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 01:55:58,060 INFO Response status are :200
+2026-05-20 01:55:58,060 INFO  Start Saving Raw data In data file for backup
+2026-05-20 01:55:58,060 INFO Data  Successfully saved in data file for backup
+2026-05-20 01:56:00,062 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=Valsad&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-20 01:56:00,063 INFO Start Transform Data
+2026-05-20 01:56:00,063 INFO  Start Transform Data
+2026-05-20 01:56:00,075 INFO Connecting to DB
+2026-05-20 01:56:00,141 INFO Successfully connected to database
+2026-05-20 01:56:00,198 INFO Saving Data  to DB (Mysql)
+2026-05-20 01:57:23,475 INFO Extracting data from started
+2026-05-20 01:57:23,731 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Delhi&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 01:57:25,733 INFO Response status are :200
+2026-05-20 01:57:25,733 INFO  Start Saving Raw data In data file for backup
+2026-05-20 01:57:25,735 INFO Data  Successfully saved in data file for backup
+2026-05-20 01:57:27,829 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 01:57:29,830 INFO Response status are :200
+2026-05-20 01:57:29,830 INFO  Start Saving Raw data In data file for backup
+2026-05-20 01:57:29,830 INFO Data  Successfully saved in data file for backup
+2026-05-20 01:57:31,931 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Valsad&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 01:57:33,933 INFO Response status are :200
+2026-05-20 01:57:33,933 INFO  Start Saving Raw data In data file for backup
+2026-05-20 01:57:33,933 INFO Data  Successfully saved in data file for backup
+2026-05-20 01:57:35,934 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=Valsad&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-20 01:57:35,935 INFO Start Transform Data
+2026-05-20 01:57:35,935 INFO  Start Transform Data
+2026-05-20 01:57:35,943 INFO Connecting to DB
+2026-05-20 01:57:36,004 INFO Successfully connected to database
+2026-05-20 01:57:36,004 INFO Saving Data  to DB (Mysql)
+2026-05-20 01:59:26,170 INFO Extracting data from started
+2026-05-20 01:59:26,363 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Delhi&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 01:59:28,364 INFO Response status are :200
+2026-05-20 01:59:28,364 INFO  Start Saving Raw data In data file for backup
+2026-05-20 01:59:28,364 INFO Data  Successfully saved in data file for backup
+2026-05-20 01:59:30,477 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 01:59:32,479 INFO Response status are :200
+2026-05-20 01:59:32,479 INFO  Start Saving Raw data In data file for backup
+2026-05-20 01:59:32,481 INFO Data  Successfully saved in data file for backup
+2026-05-20 01:59:34,587 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Valsad&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 01:59:36,588 INFO Response status are :200
+2026-05-20 01:59:36,589 INFO  Start Saving Raw data In data file for backup
+2026-05-20 01:59:36,590 INFO Data  Successfully saved in data file for backup
+2026-05-20 01:59:38,591 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=Valsad&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-20 01:59:38,592 INFO Start Transform Data
+2026-05-20 01:59:38,592 INFO  Start Transform Data
+2026-05-20 01:59:38,599 INFO Connecting to DB
+2026-05-20 01:59:38,659 INFO Successfully connected to database
+2026-05-20 01:59:38,659 INFO Saving Data  to DB (Mysql)
+2026-05-20 02:15:52,790 INFO Extracting data from started
+2026-05-20 02:15:56,516 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Delhi&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:15:58,518 INFO Response status are :200
+2026-05-20 02:15:58,518 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:15:58,518 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:16:03,633 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:16:05,634 INFO Response status are :200
+2026-05-20 02:16:05,635 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:16:05,636 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:16:10,763 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Valsad&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:16:12,765 INFO Response status are :200
+2026-05-20 02:16:12,766 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:16:12,767 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:16:14,769 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=Valsad&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-20 02:16:14,769 INFO Start Transform Data
+2026-05-20 02:16:14,770 INFO  Start Transform Data
+2026-05-20 02:16:14,770 INFO  Start Transform Data
+2026-05-20 02:16:14,770 INFO  Start Transform Data
+2026-05-20 02:16:14,868 INFO Connecting to DB
+2026-05-20 02:16:15,180 INFO Successfully connected to database
+2026-05-20 02:16:15,180 INFO Saving Data  to DB (Mysql)
+2026-05-20 02:18:17,880 INFO Extracting data from started
+2026-05-20 02:18:21,421 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Delhi&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:18:23,423 INFO Response status are :200
+2026-05-20 02:18:23,423 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:18:23,423 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:18:28,523 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:18:30,524 INFO Response status are :200
+2026-05-20 02:18:30,524 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:18:30,524 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:18:35,643 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Valsad&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:18:37,644 INFO Response status are :200
+2026-05-20 02:18:37,644 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:18:37,646 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:18:39,649 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=Valsad&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-20 02:18:39,651 INFO Start Transform Data
+2026-05-20 02:18:39,651 INFO  Start Transform Data
+2026-05-20 02:18:39,651 INFO  Start Transform Data
+2026-05-20 02:18:39,652 INFO  Start Transform Data
+2026-05-20 02:18:39,721 INFO Connecting to DB
+2026-05-20 02:18:39,892 INFO Successfully connected to database
+2026-05-20 02:18:39,892 INFO Saving Data  to DB (Mysql)
+2026-05-20 02:32:47,490 INFO Extracting data from started
+2026-05-20 02:32:51,261 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Tokyo&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:32:53,262 INFO Response status are :200
+2026-05-20 02:32:53,262 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:32:53,263 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:32:58,423 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=São Paulo&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:33:00,424 INFO Response status are :200
+2026-05-20 02:33:00,424 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:33:00,426 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:33:05,562 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Toronto&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:33:07,563 INFO Response status are :200
+2026-05-20 02:33:07,563 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:33:07,564 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:33:12,680 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Sydney&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:33:14,682 INFO Response status are :200
+2026-05-20 02:33:14,682 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:33:14,683 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:33:19,808 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Cairo&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:33:21,809 INFO Response status are :200
+2026-05-20 02:33:21,809 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:33:21,811 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:33:26,918 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Munich&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:33:28,920 INFO Response status are :200
+2026-05-20 02:33:28,920 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:33:28,920 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:33:34,024 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Cape Town&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:33:36,025 INFO Response status are :200
+2026-05-20 02:33:36,025 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:33:36,025 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:33:41,126 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:33:43,127 INFO Response status are :200
+2026-05-20 02:33:43,127 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:33:43,128 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:33:48,251 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Marseille&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:33:50,252 INFO Response status are :200
+2026-05-20 02:33:50,252 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:33:50,253 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:33:55,369 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Buenos Aires&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:33:57,370 INFO Response status are :200
+2026-05-20 02:33:57,370 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:33:57,370 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:34:02,492 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Busan&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:34:04,494 INFO Response status are :200
+2026-05-20 02:34:04,494 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:34:04,495 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:34:09,619 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Guadalajara&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:34:11,621 INFO Response status are :200
+2026-05-20 02:34:11,621 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:34:11,621 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:34:16,748 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Milan&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:34:18,750 INFO Response status are :200
+2026-05-20 02:34:18,750 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:34:18,751 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:34:23,875 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Auckland&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:34:25,875 INFO Response status are :200
+2026-05-20 02:34:25,875 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:34:25,875 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:34:30,978 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Mombasa&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:34:32,980 INFO Response status are :200
+2026-05-20 02:34:32,980 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:34:32,980 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:34:38,091 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Barcelona&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:34:40,091 INFO Response status are :200
+2026-05-20 02:34:40,106 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:34:40,106 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:34:45,225 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Da Nang&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:34:47,227 INFO Response status are :200
+2026-05-20 02:34:47,227 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:34:47,228 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:34:52,336 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Medellín&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:34:54,337 INFO Response status are :200
+2026-05-20 02:34:54,337 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:34:54,337 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:34:59,447 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Bergen&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:35:01,448 INFO Response status are :200
+2026-05-20 02:35:01,450 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:35:01,450 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:35:06,555 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Marrakech&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:35:08,556 INFO Response status are :200
+2026-05-20 02:35:08,556 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:35:08,556 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:35:13,657 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Istanbul&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:35:15,658 INFO Response status are :200
+2026-05-20 02:35:15,658 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:35:15,658 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:35:20,949 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Cusco&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:35:22,950 INFO Response status are :200
+2026-05-20 02:35:22,950 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:35:22,951 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:36:50,020 INFO Extracting data from started
+2026-05-20 02:36:53,472 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Tokyo&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:36:53,472 INFO Response status are :200
+2026-05-20 02:36:53,472 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:36:53,473 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:36:56,558 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=São Paulo&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:36:56,558 INFO Response status are :200
+2026-05-20 02:36:56,558 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:36:56,558 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:37:00,323 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Toronto&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:37:00,323 INFO Response status are :200
+2026-05-20 02:37:00,324 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:37:00,325 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:37:03,432 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Sydney&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:37:03,433 INFO Response status are :200
+2026-05-20 02:37:03,433 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:37:03,434 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:37:06,545 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Cairo&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:37:06,546 INFO Response status are :200
+2026-05-20 02:37:06,546 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:37:06,546 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:37:09,716 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Munich&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:37:09,716 INFO Response status are :200
+2026-05-20 02:37:09,716 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:37:09,717 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:37:12,835 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Cape Town&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:37:12,836 INFO Response status are :200
+2026-05-20 02:37:12,836 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:37:12,838 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:37:15,940 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:37:15,941 INFO Response status are :200
+2026-05-20 02:37:15,941 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:37:15,942 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:37:19,052 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Marseille&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:37:19,052 INFO Response status are :200
+2026-05-20 02:37:19,053 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:37:19,054 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:37:22,146 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Buenos Aires&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:37:22,146 INFO Response status are :200
+2026-05-20 02:37:22,147 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:37:22,148 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:37:25,264 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Busan&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:37:25,265 INFO Response status are :200
+2026-05-20 02:37:25,265 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:37:25,267 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:37:28,374 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Guadalajara&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:37:28,375 INFO Response status are :200
+2026-05-20 02:37:28,375 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:37:28,376 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:37:31,495 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Milan&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:37:31,495 INFO Response status are :200
+2026-05-20 02:37:31,495 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:37:31,496 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:37:34,600 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Auckland&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:37:34,601 INFO Response status are :200
+2026-05-20 02:37:34,601 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:37:34,602 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:37:37,716 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Mombasa&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:37:37,717 INFO Response status are :200
+2026-05-20 02:37:37,748 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:37:37,749 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:37:40,851 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Barcelona&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:37:40,852 INFO Response status are :200
+2026-05-20 02:37:40,852 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:37:40,853 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:37:43,973 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Da Nang&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:37:43,974 INFO Response status are :200
+2026-05-20 02:37:43,975 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:37:43,976 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:37:47,062 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Medellín&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:37:47,062 INFO Response status are :200
+2026-05-20 02:37:47,062 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:37:47,063 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:37:50,177 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Bergen&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:37:50,178 INFO Response status are :200
+2026-05-20 02:37:50,178 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:37:50,179 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:37:53,280 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Marrakech&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:37:53,280 INFO Response status are :200
+2026-05-20 02:37:53,280 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:37:53,281 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:37:56,396 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Istanbul&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:37:56,396 INFO Response status are :200
+2026-05-20 02:37:56,397 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:37:56,398 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:37:59,498 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Cusco&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:37:59,499 INFO Response status are :200
+2026-05-20 02:37:59,499 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:37:59,500 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:38:02,630 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Chiang Mai&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:38:02,631 INFO Response status are :200
+2026-05-20 02:38:02,631 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:38:02,632 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:38:05,737 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Gothenburg&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:38:05,737 INFO Response status are :200
+2026-05-20 02:38:05,739 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:38:05,740 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:38:08,846 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Valparaíso&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:38:08,846 INFO Response status are :200
+2026-05-20 02:38:08,846 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:38:08,846 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:38:08,847 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=Valparaíso&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-20 02:38:08,847 INFO Start Transform Data
+2026-05-20 02:38:08,847 INFO  Start Transform Data
+2026-05-20 02:38:08,847 INFO  Start Transform Data
+2026-05-20 02:38:08,847 INFO  Start Transform Data
+2026-05-20 02:38:08,847 INFO  Start Transform Data
+2026-05-20 02:38:08,847 INFO  Start Transform Data
+2026-05-20 02:38:08,848 INFO  Start Transform Data
+2026-05-20 02:38:08,848 INFO  Start Transform Data
+2026-05-20 02:38:08,848 INFO  Start Transform Data
+2026-05-20 02:38:08,848 INFO  Start Transform Data
+2026-05-20 02:38:08,848 INFO  Start Transform Data
+2026-05-20 02:38:08,848 INFO  Start Transform Data
+2026-05-20 02:38:08,848 INFO  Start Transform Data
+2026-05-20 02:38:08,848 INFO  Start Transform Data
+2026-05-20 02:38:08,848 INFO  Start Transform Data
+2026-05-20 02:38:08,848 INFO  Start Transform Data
+2026-05-20 02:38:08,848 INFO  Start Transform Data
+2026-05-20 02:38:08,848 INFO  Start Transform Data
+2026-05-20 02:38:08,848 INFO  Start Transform Data
+2026-05-20 02:38:08,848 INFO  Start Transform Data
+2026-05-20 02:38:08,849 INFO  Start Transform Data
+2026-05-20 02:38:08,849 INFO  Start Transform Data
+2026-05-20 02:38:08,849 INFO  Start Transform Data
+2026-05-20 02:38:08,849 INFO  Start Transform Data
+2026-05-20 02:38:08,849 INFO  Start Transform Data
+2026-05-20 02:38:08,849 INFO  Start Transform Data
+2026-05-20 02:38:10,071 INFO Connecting to DB
+2026-05-20 02:38:11,304 INFO Successfully connected to database
+2026-05-20 02:38:11,304 INFO Saving Data  to DB (Mysql)
+2026-05-20 02:48:27,793 INFO Extracting data from started
+2026-05-20 02:48:32,603 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Tokyo&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:48:32,604 INFO Response status are :200
+2026-05-20 02:48:32,604 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:48:32,605 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:48:35,718 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=São Paulo&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:48:35,718 INFO Response status are :200
+2026-05-20 02:48:35,719 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:48:35,719 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:48:38,844 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Toronto&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:48:38,844 INFO Response status are :200
+2026-05-20 02:48:38,844 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:48:38,845 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:48:41,951 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Sydney&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:48:41,952 INFO Response status are :200
+2026-05-20 02:48:41,952 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:48:41,953 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:48:45,063 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Cairo&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:48:45,063 INFO Response status are :200
+2026-05-20 02:48:45,063 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:48:45,063 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:48:48,160 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Munich&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:48:48,160 INFO Response status are :200
+2026-05-20 02:48:48,160 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:48:48,160 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:48:51,279 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Cape Town&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:48:51,279 INFO Response status are :200
+2026-05-20 02:48:51,279 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:48:51,333 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:48:54,431 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Mumbai&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:48:54,431 INFO Response status are :200
+2026-05-20 02:48:54,431 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:48:54,431 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:48:57,531 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Marseille&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:48:57,531 INFO Response status are :200
+2026-05-20 02:48:57,531 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:48:57,531 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:49:00,621 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Buenos Aires&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:49:00,621 INFO Response status are :200
+2026-05-20 02:49:00,622 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:49:00,623 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:49:03,756 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Busan&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:49:03,757 INFO Response status are :200
+2026-05-20 02:49:03,757 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:49:03,757 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:49:06,861 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Guadalajara&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:49:06,862 INFO Response status are :200
+2026-05-20 02:49:06,862 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:49:06,863 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:49:09,982 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Milan&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:49:09,983 INFO Response status are :200
+2026-05-20 02:49:09,983 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:49:09,984 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:49:13,081 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Auckland&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:49:13,081 INFO Response status are :200
+2026-05-20 02:49:13,082 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:49:13,083 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:49:16,199 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Mombasa&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:49:16,200 INFO Response status are :200
+2026-05-20 02:49:16,200 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:49:16,201 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:49:19,295 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Barcelona&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:49:19,296 INFO Response status are :200
+2026-05-20 02:49:19,296 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:49:19,297 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:49:22,418 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Da Nang&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:49:22,418 INFO Response status are :200
+2026-05-20 02:49:22,418 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:49:22,419 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:49:25,514 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Medellín&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:49:25,514 INFO Response status are :200
+2026-05-20 02:49:25,514 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:49:25,514 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:49:28,630 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Bergen&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:49:28,630 INFO Response status are :200
+2026-05-20 02:49:28,630 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:49:28,630 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:49:31,726 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Marrakech&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:49:31,726 INFO Response status are :200
+2026-05-20 02:49:31,727 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:49:31,728 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:49:34,847 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Istanbul&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:49:34,847 INFO Response status are :200
+2026-05-20 02:49:34,848 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:49:34,848 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:49:37,955 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Cusco&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:49:37,955 INFO Response status are :200
+2026-05-20 02:49:37,956 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:49:37,957 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:49:41,077 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Chiang Mai&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:49:41,078 INFO Response status are :200
+2026-05-20 02:49:41,078 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:49:41,079 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:49:44,169 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Gothenburg&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:49:44,169 INFO Response status are :200
+2026-05-20 02:49:44,170 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:49:44,171 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:49:47,317 INFO Checking response status code from :https://api.openweathermap.org/data/2.5/weather?q=Valparaíso&appid=b70f5725f31f24110d46282a364a6878&units=metric
+2026-05-20 02:49:47,318 INFO Response status are :200
+2026-05-20 02:49:47,318 INFO  Start Saving Raw data In data file for backup
+2026-05-20 02:49:47,319 INFO Data  Successfully saved in data file for backup
+2026-05-20 02:49:47,320 INFO Extracting data from :https://api.openweathermap.org/data/2.5/weather?q=Valparaíso&appid=b70f5725f31f24110d46282a364a6878&units=metric completed
+2026-05-20 02:49:47,321 INFO Start Transform Data
+2026-05-20 02:49:47,322 INFO  Start Transform Data
+2026-05-20 02:49:47,322 INFO  Start Transform Data
+2026-05-20 02:49:47,322 INFO  Start Transform Data
+2026-05-20 02:49:47,322 INFO  Start Transform Data
+2026-05-20 02:49:47,323 INFO  Start Transform Data
+2026-05-20 02:49:47,323 INFO  Start Transform Data
+2026-05-20 02:49:47,323 INFO  Start Transform Data
+2026-05-20 02:49:47,323 INFO  Start Transform Data
+2026-05-20 02:49:47,323 INFO  Start Transform Data
+2026-05-20 02:49:47,324 INFO  Start Transform Data
+2026-05-20 02:49:47,324 INFO  Start Transform Data
+2026-05-20 02:49:47,324 INFO  Start Transform Data
+2026-05-20 02:49:47,324 INFO  Start Transform Data
+2026-05-20 02:49:47,325 INFO  Start Transform Data
+2026-05-20 02:49:47,325 INFO  Start Transform Data
+2026-05-20 02:49:47,325 INFO  Start Transform Data
+2026-05-20 02:49:47,325 INFO  Start Transform Data
+2026-05-20 02:49:47,325 INFO  Start Transform Data
+2026-05-20 02:49:47,326 INFO  Start Transform Data
+2026-05-20 02:49:47,326 INFO  Start Transform Data
+2026-05-20 02:49:47,326 INFO  Start Transform Data
+2026-05-20 02:49:47,326 INFO  Start Transform Data
+2026-05-20 02:49:47,327 INFO  Start Transform Data
+2026-05-20 02:49:47,327 INFO  Start Transform Data
+2026-05-20 02:49:47,327 INFO  Start Transform Data
+2026-05-20 02:49:47,510 INFO Connecting to DB
+2026-05-20 02:49:47,743 INFO Successfully connected to database
+2026-05-20 02:49:47,743 INFO Saving Data  to DB (Mysql)
